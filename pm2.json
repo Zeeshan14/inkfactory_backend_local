@@ -1,0 +1,8 @@
+{
+    "apps": [
+      {
+        "name": "inkfactory-backend",
+        "script": "bin/www"
+      }
+    ]
+  }
